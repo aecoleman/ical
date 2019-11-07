@@ -85,7 +85,7 @@ library(ical)
 
 ## Usage
 
-**laoding package**
+**loading package**
 
 ``` r
 library(ical)
